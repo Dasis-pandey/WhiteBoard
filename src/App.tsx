@@ -6,7 +6,7 @@ import Whiteboard from './Whiteboard';
 const App: React.FC = () => {
   return (
     <div>
-      <h1>Whiteboard App</h1>
+      <h1>Whiteboard app</h1>
       <Whiteboard />
     </div>
   );
